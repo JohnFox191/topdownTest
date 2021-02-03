@@ -1,4 +1,4 @@
-Only a very basic showcase of the controler and style of the prototype I'm working on, the rest of the stuff I've done can't really be glued together right now into a single scene.
+Only a very basic showcase of the controller and style of the prototype I'm working on, the rest of the stuff I've done can't really be glued together right now into a single scene.
 
 To run you must have either use one of the exports in the 'exports' folder, godot to open the project or python 3.+ in conjunction with a browser. 
 
